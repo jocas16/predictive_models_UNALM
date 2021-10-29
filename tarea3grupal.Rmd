@@ -193,8 +193,7 @@ Para el modelo de vallas, el componente de vallas cero describe la probabilidad 
 </div>
 # aasdf
 
-
-
+#ckj
 
 
 
